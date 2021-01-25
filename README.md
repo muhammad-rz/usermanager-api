@@ -1,6 +1,6 @@
 # USER MANAGEMENT API with JWT (Express, Mongodb)
-
-## Features
+## Deployed on heroku usermanagementapi.herokuapp.com
+### Features
 
 - Create user (admin)
 - GET all users (admin)
