@@ -1,5 +1,5 @@
 # USER MANAGEMENT API with JWT (Express, Mongodb)
-## Deployed on [heroku](https://www.usermanagementapi.herokuapp.com)
+## Deployed on [https://usermanagementapi.herokuapp.com/](https://usermanagementapi.herokuapp.com/)
 
 ### Features
 
